@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "viakon-app",
+    "slug": "viakon-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Viakon.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Viakon.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Viakon.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.thelr30.viakonapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "26bc4f80-fd61-4c5c-9d96-4935ab9f8c8e"
+      }
+    }
+  }
+}

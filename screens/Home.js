@@ -24,7 +24,7 @@ export default function Home({ navigation }) {
           <StatusBar translucent={false} backgroundColor={"#fff"} barStyle={"dark-content"} />
           <View style={styles.header}>
             <Text style={styles.textoProfile} >Catálogo</Text> 
-            <Image source={require("../assets/Viakon.jpg")} style={styles.profileImage}/> 
+            <Image source={require("../assets/Flex.png")} style={styles.profileImage}/> 
           </View>
 
           <View style={styles.inputContainer}>

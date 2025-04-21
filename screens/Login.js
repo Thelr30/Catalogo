@@ -29,7 +29,7 @@ export default function Login(props) {
     return (
         <View style={styles.padre}>
             <View>
-                <Image source={require("../assets/Viakon.jpg")} style={styles.viakon} />
+                <Image source={require("../assets/Flex.png")} style={styles.viakon} />
             </View>
 
             <View style={styles.tarjeta}>

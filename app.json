@@ -4,11 +4,11 @@
     "slug": "viakon-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/Viakon.jpg",
+    "icon": "./assets/Flex.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/Viakon.jpg",
+      "image": "./assets/Flex.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/Viakon.jpg",
+        "foregroundImage": "./assets/Flex.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.thelr30.viakonapp"
